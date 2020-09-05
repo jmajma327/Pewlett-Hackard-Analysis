@@ -16,6 +16,8 @@ The purpose of this analysis was to create tables for the company Pewlett Hackar
 
 ## Summary
 
+The anaylsis heeds the result that 90,398 positions need to be filled with approaching retirement.
+
 
 
 
