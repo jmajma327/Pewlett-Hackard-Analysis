@@ -14,6 +14,7 @@ The purpose of this analysis was to create tables for the company Pewlett Hackar
 
 ![](https://github.com/jmajma327/Pewlett-Hackard-Analysis/blob/master/IMAGES/retiring_titles.png)
 
+## Summary
 
 
 
